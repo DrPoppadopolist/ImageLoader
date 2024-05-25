@@ -2110,7 +2110,6 @@
 61 32  246 248 250
 62 32  246 248 250
 63 32  246 248 250
-}
 
-_G.Width = {new_width}
-_G.Height = {new_height}
+
+test
